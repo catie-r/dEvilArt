@@ -462,3 +462,7 @@ padding: 3px 10px 3px 0px;
     text-align: center;
     font-family: "Inter", sans-serif;
 }
+
+li{
+    font-family: kanit;
+}
