@@ -243,9 +243,6 @@ container p{
 object-fit: contain;
 }
 
-.pfpprofile {
-    width: 20%;
-}
 
 .collectionitems{
     display: flex;
@@ -263,6 +260,7 @@ article{
 
 .profilebanner {
     border: none;
+    background-color: black;
 }
 
 .profilebanner img{
